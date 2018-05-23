@@ -2,7 +2,7 @@
 Instruction, how to upload visual studio new project to GitHub
 
 Step 1:
-![1](https://user-images.githubusercontent.com/37801354/40443766-9b37589c-5ec7-11e8-8ab9-5241c721752d.JPG)
+![1](https://user-images.githubusercontent.com/37801354/40443986-4b19752e-5ec8-11e8-9bd1-929c9cb267d3.JPG)
 
 Step 2:
 ![2](https://user-images.githubusercontent.com/37801354/40443779-a521bfb4-5ec7-11e8-8ee3-47c4d034ccee.JPG)
@@ -30,6 +30,7 @@ Step 9:
 
 Step 10:
 ![10](https://user-images.githubusercontent.com/37801354/40443810-b57ad1d4-5ec7-11e8-81e6-329214f7b5b3.JPG)
+
 
 Step 11:
 ![11](https://user-images.githubusercontent.com/37801354/40443813-b6bfcf4a-5ec7-11e8-8e65-af923d9a243c.JPG)
